@@ -1,0 +1,8 @@
+your-website/
+├── index.html
+├── css/
+│   └── style.css
+├── images/
+│   └── portrait.jpg (your photo)
+└── pdf/
+    └── cv.pdf (your CV)
